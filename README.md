@@ -1,3 +1,7 @@
+This repository is created from Traversy Media's [video](https://www.youtube.com/watch?v=mxK8b99iJTg) for learning about React Hooks by building a simple ToDo app.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
